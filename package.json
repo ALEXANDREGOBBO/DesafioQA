@@ -1,0 +1,22 @@
+{
+  "name": "desafioqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEXANDREGOBBO/DesafioQA-Cypress.git"
+  },
+  "author": "Alexandre-Gobbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALEXANDREGOBBO/DesafioQA-Cypress/issues"
+  },
+  "homepage": "https://github.com/ALEXANDREGOBBO/DesafioQA-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
