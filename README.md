@@ -7,7 +7,7 @@
 - Abra o VsCode
 - Vá em arquivo > Abrir uma pasta
 - Abra a sua pasta em seguida selecione a pasta "DesafioQA"
-- Instale o cypress (npm install cypress --save-dev
+- Instale o cypress (npm install cypress --save-dev)
 - Abra um terminal no VsCode e rode o comando: node_modules/.bin/cypress open
 - Escolha a opção E2E Testing no cypress
 - Clique no navegador que preferir 
